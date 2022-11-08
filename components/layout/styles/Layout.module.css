@@ -1,0 +1,45 @@
+.image{
+    width: 70px;
+    height: 50px;
+}
+
+.container{
+    width: 100%;
+    height: 100px;
+    background-color: #000B20;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 60px;
+}
+
+.ul{
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.li{
+    list-style: none;
+    font-weight: bold;
+}
+
+.button{
+    background-color: #07E89D;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 15px;
+}
+
+.registerContent{
+    font-size: 17px;
+    font-weight: bolder;
+
+}
+
+
+
+
+
